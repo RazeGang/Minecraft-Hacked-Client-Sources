@@ -1,8 +1,8 @@
 # Minecraft Hacked Client Sources
 
-# JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
+# Forked Cause I have some more clients
 
-## Amount of clients: 45
+## Amount of clients: 47
 
 ## List of clients:
 
@@ -51,6 +51,7 @@
 * WeepCraft 0.2
 * WintWare
 * Xatz 0.9b1
+* Xuluv 1.5.2
 
 ## Discord: chocopie#8543
 
